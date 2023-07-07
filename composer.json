@@ -1,0 +1,19 @@
+{
+    "name": "Indahharahap12/tugas2-pbwl",
+    "description": "Tugas 2 Pemrograman Berbasis Web Lanjutan 2022",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Indahharahap12",
+            "email": "indahmeilina123@gmai.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
